@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <!--
 ![](profile-3d-contrib/profile-night-view.svg)
 -->
+![github_profile](https://github.com/user-attachments/assets/b403176e-b22f-4be3-be30-82641d4c2865)
+
+
 
 <div align="center">
   <picture>
