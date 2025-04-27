@@ -19,11 +19,18 @@ Here are some ideas to get you started:
 ![](profile-3d-contrib/profile-night-view.svg)
 -->
 
-<div class="profile-graph">
-  <img class="gh-light-mode-only" src="https://raw.githubusercontent.com/cp200513/profile-3d-contrib/profile-gitblock.svg" alt="Light profile"/>
-  <img class="gh-dark-mode-only" src="https://raw.githubusercontent.com/cp200513/profile-3d-contrib/profile-night-rainbow.svg" alt="Dark profile"/>
-</div>
+## Hi there 👋
 
+<div align="center">
+  <picture>
+    <!-- Light mode -->
+    <source srcset="profile-3d-contrib/profile-gitblock.svg" media="(prefers-color-scheme: light)">
+    <!-- Dark mode -->
+    <source srcset="profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
+    <!-- Fallback -->
+    <img src="profile-3d-contrib/profile-gitblock.svg" alt="Profile contributions" width="100%">
+  </picture>
+</div>
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-night-rainbow.svg" />
