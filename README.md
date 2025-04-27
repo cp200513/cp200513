@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake.svg" />
