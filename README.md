@@ -14,37 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script>
-  // Detect user's color scheme preference
-  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  // Select the element where you want to display the images
-  const readmeContent = document.getElementById('readme-content');
-
-  if (isDarkMode) {
-    // If dark mode is active, insert the dark version of the 3D graph
-    readmeContent.innerHTML = `
-      ![](https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-night-rainbow.svg)
-    `;
-  } else {
-    // If light mode is active, insert the light version of the 3D graph
-    readmeContent.innerHTML = `
-      ![](https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-gitblock.svg)
-    `;
-  }
-</script>
-
-<!-- Where the content will be rendered -->
-<div id="readme-content"></div>
 
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
+![](profile-3d-contrib/profile-gitblock.svg)
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-gitblock.svg" />
   <img alt="profile images" src="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-gitblock.svg" />
 </picture>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake-dark.svg" />
