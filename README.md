@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 ![](profile-3d-contrib/profile-night-view.svg)
 -->
 
+## Hi there 👋
+
+<!-- light mode -->
+![Light mode graph](https://raw.githubusercontent.com/cp200513/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+
+<!-- dark mode -->
+![Dark mode graph](https://raw.githubusercontent.com/cp200513/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/profile-3d-contrib/profile-gitblock.svg" />
