@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#I'm Chiranjeev Prasannaa
 <!--
 **cp200513/cp200513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,8 +45,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake.svg" />
 </picture>
-
-## 🏻 Competitive Programming Profiles
 
 ## 🏻 Competitive Programming Profiles
 
