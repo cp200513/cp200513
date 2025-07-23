@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Chiranjeev Prasannaa , an aspiring software dev who fell in love with cp(Competitive Programming) | 
+I'm Chiranjeev Prasannaa , an aspiring software dev who fell in love with cp(Competitive Programming)...
 <!--
 **cp200513/cp200513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
